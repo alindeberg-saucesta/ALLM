@@ -21,7 +21,7 @@ from src.data_processing.training_data_loader import TrainingDataLoader
 
 
 '''
-Main script to pre-train MyLLM in 8xA100 GPUs.
+Main script to pre-train aLLM in 8xH100 GPUs.
 '''
 
 if __name__ == "__main__":
