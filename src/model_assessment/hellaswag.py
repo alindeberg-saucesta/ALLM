@@ -22,7 +22,7 @@ HELLASWAG_KEY = "hellaswag"
 class HellaSwag:
     '''
     Class to encapsulate loading HellaSwag validation dataset and
-    running evaluation on MyLLM.
+    running evaluation on aLLM.
 
     Got the idea from Karpathy's evaluation of build-nanogpt, but prefer the implementation
     from Tenstorrent's Benchmarking, though my implementation is a bit more straightforward since
