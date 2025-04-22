@@ -55,4 +55,4 @@ if command -v nvidia-smi &> /dev/null && nvidia-smi > /dev/null 2>&1; then
 else
     python pretrain.py
 fi
-log "Done training MyLLM."
+log "Done training aLLM."
